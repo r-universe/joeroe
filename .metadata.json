@@ -1,5 +1,6 @@
 [
   {
-    "package": "era"
+    "package": "era",
+    "oncran": false
   }
 ]
