@@ -1,10 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/joeroe/universe
+	url = https://github.com/joeroe/joeroe.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "era"]
 	path = era
 	url = https://github.com/joeroe/era
+	shallow = true
+	registered = true
+[submodule "rpaleoclim"]
+	path = rpaleoclim
+	url = https://github.com/joeroe/rpaleoclim
 	shallow = true
 	registered = true
